@@ -33,5 +33,21 @@
 			"error_lists": []
 		
         }
+    ],
+	"total_bayar":[
+        { 
+			
+			"status": true,
+			"message": "Success!",
+			"data": {
+				"ttl_biaya": "1192000",
+				"kode_unik": "846",
+				"diskon": "238400",
+				"total_bayar": "954446",
+				"batas_waktu_bayar": "23:59:59"
+			},
+			"error_lists": []
+		
+        }
     ]
 }
