@@ -1,5 +1,5 @@
 {
-    "transaksiku":[
+    "transaksi":[
         { 
 			
 			"status": true,
@@ -31,80 +31,6 @@
 			},
 			"error_lists": []
 		
-        }
-    ],
-	"full_book":[
-        { 
-			
-			"status": true,
-			"message": "Success!",
-			"data": {
-				"tanggal": [
-					"2017-09-27",
-					"2017-09-28",
-					"2017-09-29",
-					"2017-09-30"
-				]
-			},
-			"error_lists": []
-		
-        }
-    ],
-	"voucher":[
-        { 
-			"status": true,
-			"message": "Yeay, (Bunda) (-> berdasarkan gender) dapat potongan",
-			"data": {
-				"kode_voucher" : "10301CZUFE",
-				"paket" : "All",
-				"jenis_voucher" : "HARGA",
-				"diskon": "50000"
-			},
-			"error_lists": []
-        },
-		{ 
-			"status": false,
-			"message": "Oopsss, kode vouchernya salah (bunda) ->  berdasarkan gender",
-			"data": [],
-			"error_lists": []
-        },
-		{ 
-			"status": false,
-			"message": "Oopsss, kode vouchernya sudah digunakan (bunda) ->  berdasarkan gender",
-			"data": [],
-			"error_lists": []
-        }
-    ],
-	"bank":[
-        { 
-			"status": true,
-			"message": "Success!",
-			"data": 
-				[
-					{
-						"id_bank" : "1",
-						"nama_bank" : "Mandiri",
-						"no_rekening" : "129 001 1586761",
-						"nama_pemilik": "Indah Ratnasari"
-					},
-					{
-						"id_bank" : "2",
-						"nama_bank" : "BCA",
-						"no_rekening" : "675 519 9587",
-						"nama_pemilik": "Indah Ratnasari"
-					}
-				],
-			"error_lists": []
-        }
-	],
-	"total_harga":[ 
-        { 
-			"status": true,
-			"message": "Success!",
-			"data": {
-				"ttl_biaya" : "181200"
-			},
-			"error_lists": []
         }
     ]
 }
