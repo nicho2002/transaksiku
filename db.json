@@ -1,0 +1,128 @@
+{
+    "biodata":[
+        { 
+			
+			"status": true,
+			"message": "Success!",
+			"data": {
+				"id": 103,
+				"nama": "Muhammad Amin",
+				"jenis_kelamin": "P",
+				"photo_profile": "https://lh6.googleusercontent.com/-gc24lBCiX1k/AAAAAAAAAAI/AAAAAAAAAJA/FIIU0aMDslc/s96-c/photo.jpg",
+				"email": "nicho@hamengku.com",
+				"no_hp": "08943040333",
+				"lokasi": "Berau Regency, East Kalimantan, Indonesia",
+				"providers": "Google",
+				"id_firebase": "fzWAI68ticE:APA91bFgfAsMpwPwxW0JmDoYyVVajeUNiP59JoCV4bf_arP_zJHF5c5tUPsUj6SVXZb4w4ObxNfI3BxhLRx3tUKEkhXId5FoV2-9i-zaLIeFVr48h_PtNoAuG_vwyq7yAzLVFD0TqRIT",
+				"username_chat": "muhammad.amin1406621",
+				"token_chat": "MTAzI011aGFtbWFkIEFtaW4jbXVoYW1tYWQuYW1pbjE0MDZAZ21haWwuY29tIzIwMTgtMTAtMTUgMTY6MDQ6NTM=",
+				"daftar_anak": [
+					{
+						"id_family": 133,
+						"nama": "Diani Safitri",
+						"tgl_lahir": "2011-07-31",
+						"jenis_kelamin": "L",
+						"catatan_khusus": "Tidak suka makan pedas"
+					},
+					{
+						"id_family": 134,
+						"nama": "Anisa Dina",
+						"tgl_lahir": "2011-08-25",
+						"jenis_kelamin": "L",
+						"catatan_khusus": "Alergi kacang"
+					},
+					{
+						"id_family": 146,
+						"nama": "Anisa Fitri",
+						"tgl_lahir": "2010-09-29",
+						"jenis_kelamin": "P",
+						"catatan_khusus": "-"
+					},
+					{
+						"id_family": 189,
+						"nama": "Anisa Dian",
+						"tgl_lahir": "2010-12-13",
+						"jenis_kelamin": "P",
+						"catatan_khusus": "-"
+					}
+				]
+			},
+			"error_lists": []
+		
+        }
+    ],
+	"full_book":[
+        { 
+			
+			"status": true,
+			"message": "Success!",
+			"data": {
+				"tanggal": [
+					"2017-09-27",
+					"2017-09-28",
+					"2017-09-29",
+					"2017-09-30"
+				]
+			},
+			"error_lists": []
+		
+        }
+    ],
+	"voucher":[
+        { 
+			"status": true,
+			"message": "Yeay, (Bunda) (-> berdasarkan gender) dapat potongan",
+			"data": {
+				"kode_voucher" : "10301CZUFE",
+				"paket" : "All",
+				"jenis_voucher" : "HARGA",
+				"diskon": "50000"
+			},
+			"error_lists": []
+        },
+		{ 
+			"status": false,
+			"message": "Oopsss, kode vouchernya salah (bunda) ->  berdasarkan gender",
+			"data": [],
+			"error_lists": []
+        },
+		{ 
+			"status": false,
+			"message": "Oopsss, kode vouchernya sudah digunakan (bunda) ->  berdasarkan gender",
+			"data": [],
+			"error_lists": []
+        }
+    ],
+	"bank":[
+        { 
+			"status": true,
+			"message": "Success!",
+			"data": 
+				[
+					{
+						"id_bank" : "1",
+						"nama_bank" : "Mandiri",
+						"no_rekening" : "129 001 1586761",
+						"nama_pemilik": "Indah Ratnasari"
+					},
+					{
+						"id_bank" : "2",
+						"nama_bank" : "BCA",
+						"no_rekening" : "675 519 9587",
+						"nama_pemilik": "Indah Ratnasari"
+					}
+				],
+			"error_lists": []
+        }
+	],
+	"total_harga":[ 
+        { 
+			"status": true,
+			"message": "Success!",
+			"data": {
+				"ttl_biaya" : "181200"
+			},
+			"error_lists": []
+        }
+    ]
+}
