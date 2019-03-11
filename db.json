@@ -65,6 +65,7 @@
         },
 	"nama_bank":
         { 
+		
 			"status": true,
 			"message": "Success!",
 			"data": 
@@ -83,15 +84,18 @@
 					}
 				],
 			"error_lists": []
-        },
+        
+		},
 	"total_harga":
         { 
+		
 			"status": true,
 			"message": "Success!",
 			"data": {
 				"ttl_biaya" : "181200"
 			},
 			"error_lists": []
-        }
+        
+		}
 	
 }
