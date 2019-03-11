@@ -63,7 +63,7 @@
 			"error_lists": []
 		
         },
-	"bank":
+	"nama_bank":
         { 
 			"status": true,
 			"message": "Success!",
