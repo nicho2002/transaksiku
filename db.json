@@ -106,7 +106,9 @@
 			"status": true,
 			"message": "Success!",
 			"data": {
-				"ttl_biaya" : "181200"
+				"ttl_biaya" : "1192000",
+				"diskon" : "0",
+				"total_bayar" : "1192000"
 			},
 			"error_lists": []
         
